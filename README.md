@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on solana
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: hastercomdat scammers 😊
+- ⚡ Fun fact: hamstercomdat scammers 😊
 
 <!---
 CryptoShmon/CryptoShmon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
